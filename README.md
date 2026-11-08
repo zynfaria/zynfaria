@@ -31,7 +31,7 @@ I build end-to-end web solutions, from polished user interfaces to the backend s
 
 ## GitHub stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=zynfaria&show_icons=true&hide_border=true&theme=transparent)
+![GitHub stats](https://ghstats.dev/api/card?username=zynfaria&show_icons=true&hide_border=true&theme=transparent)
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zynfaria&layout=compact&hide_border=true&theme=transparent)
 
 ## Selected work
