@@ -17,6 +17,23 @@ I build end-to-end web solutions, from polished user interfaces to the backend s
 - **Web applications** — creating modern, user-focused digital products
 - **AI integration** — incorporating AI capabilities where they offer meaningful utility
 
+## Tech skills
+
+*Add or remove technologies below to match the tools you use regularly.*
+
+![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=flat-square&logo=shopify&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-555?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-555?style=flat-square&logo=typescript&logoColor=3178C6)
+![React](https://img.shields.io/badge/React-555?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-555?style=flat-square&logo=nodedotjs&logoColor=5FA04E)
+![HTML5](https://img.shields.io/badge/HTML5-555?style=flat-square&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-555?style=flat-square&logo=css&logoColor=1572B6)
+
+## GitHub stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=zynfaria&show_icons=true&hide_border=true&theme=transparent)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zynfaria&layout=compact&hide_border=true&theme=transparent)
+
 ## Selected work
 
 I work across web applications, eCommerce, and AI-enabled experiences. Project case studies and repositories will be featured here as they become available.
