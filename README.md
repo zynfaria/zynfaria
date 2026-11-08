@@ -2,7 +2,7 @@
 
 **Software Engineer · Full-Stack Development · Shopify & eCommerce**
 
-I build end-to-end web solutions, from polished user interfaces to the backend systems that support them. My work spans modern websites, full-stack applications, and Shopify commerce experiences, with an ongoing focus on applying AI where it creates practical value.
+I build end-to-end web solutions, from polished user interfaces to the backend systems that support them. My work spans modern websites, full-stack applications, and Shopify commerce experiences, with AI integrations where they add meaningful value.
 
 [![Shopify](https://img.shields.io/badge/Shopify-eCommerce-5E8E3E?style=flat-square&logo=shopify&logoColor=white)](https://www.shopify.com/)
 ![Full-stack development](https://img.shields.io/badge/Focus-Full--stack%20development-263238?style=flat-square)
@@ -10,24 +10,27 @@ I build end-to-end web solutions, from polished user interfaces to the backend s
 
 ---
 
-## Expertise
+## Expertise & tech skills
 
-- **Full-stack engineering** — delivering web solutions across frontend and backend
-- **Shopify development** — building and improving eCommerce experiences
-- **Web applications** — creating modern, user-focused digital products
-- **AI integration** — incorporating AI capabilities where they offer meaningful utility
+### Frontend development
+Building responsive, user-focused interfaces with modern web technologies.
 
-## Tech skills
+![Frontend skills: HTML, CSS, JavaScript, TypeScript, and React](https://skillicons.dev/icons?i=html,css,js,ts,react)
 
-*Add or remove technologies below to match the tools you use regularly.*
+### Backend development
+Developing server-side functionality and full-stack applications with Node.js.
 
-![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=flat-square&logo=shopify&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-555?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-555?style=flat-square&logo=typescript&logoColor=3178C6)
-![React](https://img.shields.io/badge/React-555?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-555?style=flat-square&logo=nodedotjs&logoColor=5FA04E)
-![HTML5](https://img.shields.io/badge/HTML5-555?style=flat-square&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-555?style=flat-square&logo=css&logoColor=1572B6)
+![Backend skill: Node.js](https://skillicons.dev/icons?i=nodejs)
+
+### Shopify & eCommerce
+Creating and improving online store experiences with Shopify.
+
+![Shopify](https://img.shields.io/badge/Shopify-eCommerce-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)
+
+### AI integration
+Incorporating AI capabilities into products where they provide practical value.
+
+![AI integration expertise](https://img.shields.io/badge/AI-Integration-5146B5?style=for-the-badge)
 
 ## GitHub stats
 
@@ -39,7 +42,7 @@ I work across web applications, eCommerce, and AI-enabled experiences. Project c
 
 ## Engineering approach
 
-I focus on understanding the problem, choosing a practical implementation, and delivering software that is usable and maintainable. I value clear communication, thoughtful execution, and continuous improvement.
+I focus on understanding the problem, choosing a practical implementation, and delivering software that is usable and maintainable. I value clear communication, thoughtful execution, and continuous learning.
 
 ---
 
