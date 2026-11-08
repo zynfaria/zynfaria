@@ -71,13 +71,17 @@ Integrating AI capabilities into products where they provide practical value.
 
 ![GitHub stats](https://ghstats.dev/api/card?username=zynfaria&show_icons=true&hide_border=true&theme=transparent)
 
+## Contribution snake
+
+![Contribution snake animation](https://raw.githubusercontent.com/zynfaria/zynfaria/output/github-contribution-grid-snake.svg)
+
 ## Selected work
 
 I work across web applications, eCommerce, and AI-enabled experiences. Project case studies and repositories will be featured here as they become available.
 
 ## Engineering approach
 
-I focus on understanding the problem, choosing a practical technical approach, and delivering software that is usable and maintainable. I value clear communication, thoughtful execution, and continuous learning.
+I focus on understanding the problem, choosing a practical technical approach, and delivering software that is usable and maintainable. I value clear communication, thoughtful execution, and continuous improvement.
 
 ---
 
