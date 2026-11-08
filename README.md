@@ -13,19 +13,35 @@ I build end-to-end web solutions, from polished user interfaces to the backend s
 ## Expertise & tech skills
 
 ### Frontend development
-Building responsive, user-focused interfaces with modern web technologies.
+Building responsive, accessible interfaces and modern web experiences.
 
-![Frontend skills: HTML, CSS, JavaScript, TypeScript, and React](https://skillicons.dev/icons?i=html,css,js,ts,react)
+![Frontend skills: HTML, CSS, JavaScript, TypeScript, React, Next.js, and Tailwind CSS](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind)
 
-### Backend development
-Developing server-side functionality and full-stack applications with Node.js.
+### Backend & APIs
+Creating server-side applications, integrations, and APIs.
 
-![Backend skill: Node.js](https://skillicons.dev/icons?i=nodejs)
+![Backend skills: Node.js, Express, Python, and GraphQL](https://skillicons.dev/icons?i=nodejs,express,python,graphql)
+
+### Databases & data
+Working with relational and document databases for application data.
+
+![Database skills: PostgreSQL, MySQL, MongoDB, and Redis](https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis)
 
 ### Shopify & eCommerce
-Creating and improving online store experiences with Shopify.
+Building and customizing commerce experiences, themes, and storefront integrations.
 
-![Shopify](https://img.shields.io/badge/Shopify-eCommerce-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)
+![Shopify](https://img.shields.io/badge/Shopify-Storefronts%20%26%20Themes-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)
+![Liquid](https://img.shields.io/badge/Liquid-Theme%20development-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)
+
+### Cloud & DevOps
+Using version control, containers, and deployment platforms to ship and maintain applications.
+
+![Cloud and DevOps skills: Git, GitHub Actions, Docker, and Vercel](https://skillicons.dev/icons?i=git,github,githubactions,docker,vercel)
+
+### Testing & quality
+Writing and running tests to help keep applications reliable.
+
+![Testing skills: Jest and Playwright](https://skillicons.dev/icons?i=jest, playwright)
 
 ### AI integration
 Incorporating AI capabilities into products where they provide practical value.
