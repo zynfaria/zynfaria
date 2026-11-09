@@ -5,7 +5,7 @@
 I design and build digital products from idea to launch — combining polished frontend experiences, backend systems, commerce solutions, and practical AI integrations.
 
 [![Shopify](https://img.shields.io/badge/Shopify-eCommerce-5E8E3E?style=flat-square&logo=shopify&logoColor=white)](https://www.shopify.com/)
-![Full-stack development](https://img.shields.io/badge/Focus-Full--stack%20development-263238?style=flat-square)
+![Full-stack development](https://img.shields.io/badge/Main Role-Full--stack%20development-263238?style=flat-square)
 ![AI integration](https://img.shields.io/badge/Focus-AI%20integration-5146B5?style=flat-square)
 
 ---
