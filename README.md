@@ -15,7 +15,7 @@ I design and build digital products from idea to launch — combining polished f
 ### Frontend engineering
 Creating polished, responsive, accessible interfaces and modern web experiences.
 
-![Frontend skills: React, Next.js, TypeScript, JavaScript, HTML, CSS, and Tailwind CSS](https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind)
+## Technical skills
 
 ### Backend & API development
 Building server-side applications, integrations, and APIs.
@@ -89,4 +89,4 @@ I focus on understanding the problem, choosing a practical technical approach, a
 
 ---
 
-*Building useful digital products through thoughtful engineering.*
+*Building useful digital products through thoughtful and professional engineering.*
