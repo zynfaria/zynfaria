@@ -43,4 +43,4 @@ I focus on understanding the problem, choosing a practical implementation, and d
 
 ---
 
-*Building useful digital products through thoughtful engineering.*
+*Building useful digital products through thoughtful and professional engineering.*
