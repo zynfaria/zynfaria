@@ -17,7 +17,7 @@ I build end-to-end web solutions, from polished user interfaces to the backend s
 - **Web applications** — creating modern, user-focused digital products
 - **AI integration** — incorporating AI capabilities where they offer meaningful utility
 
-## Tech skills
+## Technical skills
 
 *Add or remove technologies below to match the tools you use regularly.*
 
